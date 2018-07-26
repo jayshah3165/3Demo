@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">
+Langauge改变演示</string>
+
+    <string name="uSer">用户</string>
+    <string name="driver">管理员</string>
+
+    <string name="strEnglish">English</string>
+    <string name="strChinese">中文</string>
+
+
+    <string name="strFrench">法国</string>
+    <string name="strSpenish">
+西班牙語</string>
+</resources>

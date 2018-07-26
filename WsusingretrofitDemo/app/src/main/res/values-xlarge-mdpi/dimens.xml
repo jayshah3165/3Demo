@@ -1,0 +1,73 @@
+<resources>
+    <!-- Common : Space -->
+    <dimen name="space_5dp">10dp</dimen>
+    <dimen name="space_10dp">20dp</dimen>
+    <dimen name="space_12dp">24dp</dimen>
+    <dimen name="space_15dp">30dp</dimen>
+    <dimen name="space_20dp">40dp</dimen>
+    <dimen name="space_22dp">44dp</dimen>
+    <dimen name="space_25dp">50dp</dimen>
+    <dimen name="space_32dp">64dp</dimen>
+    <dimen name="space_35dp">70dp</dimen>
+    <dimen name="space_40dp">80dp</dimen>
+    <dimen name="space_45dp">90dp</dimen>
+    <dimen name="space_50dp">100dp</dimen>
+    <dimen name="space_55dp">110dp</dimen>
+    <dimen name="space_60dp">120dp</dimen>
+    <dimen name="space_65dp">130dp</dimen>
+    <dimen name="space_70dp">140dp</dimen>
+    <dimen name="space_75dp">150dp</dimen>
+    <dimen name="space_80dp">160dp</dimen>
+    <dimen name="space_85dp">170dp</dimen>
+    <dimen name="space_90dp">180dp</dimen>
+    <dimen name="space_95dp">190dp</dimen>
+    <dimen name="space_100dp">200dp</dimen>
+    <dimen name="space_110dp">110dp</dimen>
+    <dimen name="space_115dp">115dp</dimen>
+    <dimen name="space_120dp">120dp</dimen>
+    <dimen name="space_130dp">230dp</dimen>
+    <dimen name="space_150dp">300dp</dimen>
+    <dimen name="space_170dp">320dp</dimen>
+    <dimen name="space_180dp">330dp</dimen>
+    <dimen name="space_200dp">400dp</dimen>
+    <dimen name="space_210dp">410dp</dimen>
+    <dimen name="space_220dp">420dp</dimen>
+    <dimen name="space_230dp">430dp</dimen>
+    <dimen name="space_250dp">500dp</dimen>
+    <dimen name="space_300dp">600dp</dimen>
+    <dimen name="space_320dp">620dp</dimen>
+    <dimen name="space_330dp">630dp</dimen>
+    <dimen name="space_350dp">700dp</dimen>
+    <dimen name="space_400dp">800dp</dimen>
+    <dimen name="space_450dp">900dp</dimen>
+    <dimen name="space_500dp">1000dp</dimen>
+
+
+
+    <dimen name="minus_space_30dp">-60dp</dimen>
+
+
+
+
+
+
+    <!-- Common : TEXT SIZE -->
+    <dimen name="font_size_9sp">30sp</dimen>
+    <dimen name="font_size_10sp">32sp</dimen>
+    <dimen name="font_size_11sp">33sp</dimen>
+    <dimen name="font_size_12sp">34sp</dimen>
+    <dimen name="font_size_14sp">36sp</dimen>
+    <dimen name="font_size_16sp">38sp</dimen>
+    <dimen name="font_size_18sp">40sp</dimen>
+    <dimen name="font_size_20sp">42sp</dimen>
+    <dimen name="font_size_22sp">44sp</dimen>
+    <dimen name="font_size_24sp">48sp</dimen>
+    <dimen name="font_size_60sp">120sp</dimen>
+    <!-- Common : Rounded Image -->
+    <dimen name="img_pro_width_height_75px">100dp</dimen>
+    <dimen name="img_pro_width_height_100px">132dp</dimen>
+    <dimen name="img_pro_width_height_120px">160dp</dimen>
+
+    <!-- Common : Drawer Width -->
+    <dimen name="drawerWdth1">320dp</dimen>
+</resources>

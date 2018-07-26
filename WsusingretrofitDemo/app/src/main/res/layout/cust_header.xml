@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/space_55dp"
+    android:layout_marginLeft="-15dp"
+    android:layout_marginRight="-5dp"
+    android:background="@color/colorPrimary"
+    android:minHeight="?actionBarSize"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <ImageView
+            android:id="@+id/imgLeft"
+            android:layout_width="@dimen/space_35dp"
+            android:layout_height="@dimen/space_35dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="left|center"
+            android:layout_marginLeft="@dimen/space_5dp"
+            android:layout_marginRight="@dimen/space_5dp"
+            android:src="@drawable/back_arrow"
+            android:visibility="gone" />
+
+
+
+        <TextView
+            android:id="@+id/txtCenterTitle"
+            style="@style/lbl_medium_reguler_Style"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="Cyclo"
+            android:textSize="@dimen/font_size_18sp"
+            android:visibility="gone" />
+
+
+
+            <ImageView
+                android:id="@+id/imgRight"
+                android:layout_width="@dimen/space_25dp"
+                android:layout_height="@dimen/space_25dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/space_15dp"
+                android:src="@drawable/back_arrow"
+                android:visibility="gone" />
+
+
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WsusingretrofitDemo</string>
+    <string name="font_regular">100</string>
+    <string name="font_medium">200</string>
+    <string name="font_large">300</string>
+    <string name="appExitMessage">Please click BACK again to exit</string>
+    <string name="Open">Open</string>
+    <string name="checkInternet">Please check your internet connection</string>
+    <string name="Close">Close</string>
+    <string name="Name">Name </string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone</string>
+    <string name="Password">Password</string>
+
+    <string name="Please_enter_value">Please enter %s.</string>
+    <string name="Please_SelectVtype">Please select vehicle type.</string>
+    <string name="Please_enter_your_value">Please enter your%s. </string>
+    <string name="Please_enter_valid_value">Please enter valid %s.</string>
+    <string name="Please_enter_valid_password_value">Please enter 6 digit %s. </string>
+    <string name="strTryAgain">Try Again !! There is some Technical Error.</string>
+    <string name="PleaseEnterValidMobile">Please Enter Valid Mobile Number</string>
+</resources>

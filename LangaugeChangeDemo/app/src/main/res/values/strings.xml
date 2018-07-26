@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Langauge Change Demo</string>
+
+
+    <string name="uSer">User</string>
+    <string name="driver">Admin</string>
+    <string name="strEnglish">English</string>
+    <string name="strChinese">Chinese</string>
+    <string name="strFrench">French</string>
+    <string name="strSpenish">Spanish</string>
+</resources>

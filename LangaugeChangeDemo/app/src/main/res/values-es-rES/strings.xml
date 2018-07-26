@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">
+Demo de cambio Langauge</string>
+
+
+    <string name="uSer">Usuario</string>
+    <string name="driver">
+Administración</string>
+    <string name="strEnglish">
+Inglés</string>
+    <string name="strChinese">
+chino</string>
+    <string name="strFrench">
+francés</string>
+    <string name="strSpenish">
+Español</string>
+</resources>

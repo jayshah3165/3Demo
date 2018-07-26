@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.wsusingretrofitdemo.activities.RegistrationActivity">
+
+    <com.wsusingretrofitdemo.custom.CustomHeader
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+    <EditText
+        android:id="@+id/edtNAme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:inputType="textEmailAddress"
+        android:hint="Name" />
+    <EditText
+        android:id="@+id/edtPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:inputType="numberDecimal"
+        android:hint="Phone" />
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:inputType="textEmailAddress"
+        android:hint="Email" />
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:inputType="textEmailAddress"
+        android:hint="Password" />
+
+    <TextView
+        android:id="@+id/txtDob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DOB"/>
+
+    <Button
+        android:id="@+id/btnSignin"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/space_10dp"
+        android:text="Signin"/>
+
+  <!--  <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/imgProfile"
+        android:layout_width="@dimen/space_102dp"
+        android:layout_height="@dimen/space_102dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        app:actualImageResource="@drawable/user_profile_default"
+        app:placeholderImage="@drawable/user_profile_default"
+        app:roundAsCircle="true"
+        app:roundingBorderColor="@color/white"
+        app:roundingBorderWidth="5dp" />
+-->
+</LinearLayout>

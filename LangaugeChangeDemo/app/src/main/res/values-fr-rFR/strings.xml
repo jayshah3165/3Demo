@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">
+Langauge Changer de démo</string>
+
+    <string name="uSer">utilisateur</string>
+    <string name="driver">
+chauffeur</string>
+
+    <string name="strEnglish">
+Anglais</string>
+    <string name="strChinese">
+chinois</string>
+
+
+    <string name="strFrench">français</string>
+    <string name="strSpenish">
+Espanol</string>
+</resources>
